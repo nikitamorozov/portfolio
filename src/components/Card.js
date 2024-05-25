@@ -30,10 +30,10 @@ function Card({ name, title, subtitle, social: { github, dribbble, twitter, emai
           <p className="text-xl sm:text-2xl font-semibold text-gray-900">
             {name}
           </p>
-          <p className="text-xs sm:text-base text-gray-600 pt-2 px-5 w-auto inline-block">
+          <p className="block text-xs sm:text-base text-gray-600 pt-2 px-5">
             {title}
           </p>
-          <p className="text-xs sm:text-base text-gray-600 pb-4 px-5 w-auto inline-block border-b-2">
+          <p className="text-xs sm:text-base text-gray-600 pb-4 px-5 inline-block border-b-2">
             {subtitle}
           </p>
           <div className="flex align-center justify-center mt-4">

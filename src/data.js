@@ -36,8 +36,8 @@ const data = {
   ],
   projects: [
     {
-      title: "Timely",
-      image: "/projects/timely.png",
+      title: "Kvarum",
+      image: "/projects/kvarum.jpeg",
       description: <>Service for Creating Event Schedules.<br/>Assist in crafting your event schedule for any purpose. Boost conversion rates and increase sales with our service.</>,
       tags: [
         "Treenity",
@@ -45,20 +45,20 @@ const data = {
         "Kubernetes",
         "Postgres"
       ],
-      link: "http://timely.expert/"
+      link: "https://kvarum.app/"
     },
-    {
-      title: "LangCo. Online English education platform",
-      image: "/projects/langco.png",
-      description: "LangCo is a leading online Language, Soft Skills and Cultural Training platform.",
-      tags: [
-        "react + redux",
-        "nextjs",
-        "Kubernetes",
-        "Postgres"
-      ],
-      link: "https://lang-coach.com"
-    },
+    // {
+    //   title: "LangCo. Online English education platform",
+    //   image: "/projects/langco.png",
+    //   description: "LangCo is a leading online Language, Soft Skills and Cultural Training platform.",
+    //   tags: [
+    //     "react + redux",
+    //     "nextjs",
+    //     "Kubernetes",
+    //     "Postgres"
+    //   ],
+    //   link: "https://lang-coach.com"
+    // },
     {
       title: "Tire Size Calculator",
       image: "/projects/tire_size_calculator.png",

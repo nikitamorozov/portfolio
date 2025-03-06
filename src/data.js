@@ -37,7 +37,7 @@ const data = {
   projects: [
     {
       title: "Kvarum",
-      image: "/projects/kvarum.jpeg",
+      image: "/projects/kvarum.jpg",
       description: <>Service for Creating Event Schedules.<br/>Assist in crafting your event schedule for any purpose. Boost conversion rates and increase sales with our service.</>,
       tags: [
         "Treenity",

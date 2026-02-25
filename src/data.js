@@ -36,6 +36,18 @@ const data = {
   ],
   projects: [
     {
+      title: "Track HUB",
+      image: "/projects/trackhub.jpg",
+      description: <>TrackHUB is a high-performance VBO and DLap telemetry viewer designed to help racers deconstruct their laps, visualize data trends, and uncover every millisecond of potential on the track.</>,
+      tags: [
+        "ReactJS",
+        "GoLang",
+        "Kubernetes",
+        "Postgres"
+      ],
+      link: "https://trackhub.space/"
+    },
+    {
       title: "Kvarum",
       image: "/projects/kvarum.jpg",
       description: <>Service for Creating Event Schedules.<br/>Assist in crafting your event schedule for any purpose. Boost conversion rates and increase sales with our service.</>,
